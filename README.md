@@ -70,9 +70,15 @@ The business requests addressed include:
 
 ## Insights:
 
-1. Only two high-priced products (>₹500) are part of the BOGOF promotions — Atliq_Double_Bedsheet_set and Atliq_waterproof_Immersion_Rod— indicating that most BOGOF offers are concentrated on lower-priced items.
+1. Only two products priced above ₹500 are part of the BOGOF promotion: Atliq Double Bedsheet Set and Atliq Waterproof Immersion Rod, suggesting that most BOGOF offers are concentrated on lower-priced products.
 
+2. AtliQ’s store presence is highest in Bengaluru (10), followed by Chennai (8) and Hyderabad (7), while Vijayawada and Trivandrum have the lowest number of stores with only 2 each.
 
+3. Both campaigns delivered significant revenue growth. Diwali revenue increased by ~107.6% (+₹88.88M), while Sankranti saw an even higher percentage uplift of ~113.6% (+₹66.02M).
+
+4. Home Appliances ranked 1st with the highest ISU% (588.45%), significantly outperforming Home Care (203.14%) and Combo1 (202.36%), while Grocery & Staples (18.05%) recorded the lowest incremental sales growth during the Diwali campaign.
+
+5. Atliq Waterproof Immersion Rod generated the highest Incremental Revenue uplift (266.19%), ranking 1st among all products. It was followed by Atliq High Glo 15W LED Bulb (262.98%) and Atliq Double Bedsheet Set (258.27%), while Atliq Curtains (255.34%) and Atliq Farm Chakki Atta 1KG (160.01%) completed the top five products by IR%.
 
 
 
