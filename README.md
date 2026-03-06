@@ -40,6 +40,9 @@ Metric	Description
 
 ## Dashboard Overview
 
+Data Model
+<img width="1154" height="744" alt="data model" src="https://github.com/user-attachments/assets/d5bd7c07-96d3-4cd9-ac73-79486d754334" />
+
 Home Page
 <img width="1379" height="774" alt="Home page" src="https://github.com/user-attachments/assets/27fded51-8e40-466c-ad2b-7ba26ede41d7" />
 
@@ -62,10 +65,15 @@ These queries are stored in the following folder:
 
 **SQL_ADHOC_REQUESTS/**
 The business requests addressed include:
+
 1️⃣ Identify high-value products included in BOGOF promotions
+
 2️⃣ Analyze store distribution across cities
+
 3️⃣ Compare revenue before and after promotional campaigns
+
 4️⃣ Calculate Incremental Sold Quantity (ISU%) during the Diwali campaign
+
 5️⃣ Identify Top 5 products ranked by Incremental Revenue Percentage (IR%)
 
 ## Insights:
