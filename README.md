@@ -34,8 +34,11 @@ The analysis uses the following datasets:
 ## Key Metrics
 Metric	Description
 . IR (Incremental Revenue)	Revenue generated due to promotions
+
 . IR%	Percentage revenue growth compared to baseline
+
 . ISU (Incremental Sold Units)	Increase in units sold during promotion
+
 . ISU%	Percentage increase in units sold
 
 ## Dashboard Overview
@@ -47,22 +50,23 @@ Home Page
 <img width="1311" height="734" alt="Home page" src="https://github.com/user-attachments/assets/9daafd8f-e920-4d14-8c35-cca50459ee73" />
 
 
-Store Performance Analysis
+### Store Performance Analysis
 Analyzes how stores performed during promotional campaigns.
 <img width="1148" height="793" alt="Store Performance page" src="https://github.com/user-attachments/assets/af42fec6-b695-4b1d-a6da-bf621cabd433" />
 
-Promotional Analysis
+### Promotional Analysis
 Evaluates the effectiveness of different promotion types.
 <img width="1190" height="793" alt="Promotional Analysis" src="https://github.com/user-attachments/assets/14f76955-ea9b-4110-87eb-4090fde5a619" />
 
 
-Product & Category Analysis
+### Product & Category Analysis
 Examines how product categories and individual products respond to promotions.
 <img width="1244" height="798" alt="Products   Categories page" src="https://github.com/user-attachments/assets/8ac79ff6-2a35-4180-b50c-a8e0d5042b15" />
 
 
 ## SQL Business Requests
 The project also includes SQL queries that answer key business questions.
+
 These queries are stored in the following folder:
 
 **SQL Queries/**
@@ -105,7 +109,9 @@ The business requests addressed include:
 
 
 
+## Limitations
 
+• BOGOF promotions required estimated quantity adjustments since free units were not explicitly recorded in the dataset.
 
 
 
