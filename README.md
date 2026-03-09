@@ -65,7 +65,7 @@ Examines how product categories and individual products respond to promotions.
 The project also includes SQL queries that answer key business questions.
 These queries are stored in the following folder:
 
-**SQL_ADHOC_REQUESTS/**
+**SQL Queries/**
 The business requests addressed include:
 
 1️⃣ Identify high-value products included in BOGOF promotions
@@ -78,17 +78,31 @@ The business requests addressed include:
 
 5️⃣ Identify Top 5 products ranked by Incremental Revenue Percentage (IR%)
 
-## Insights:
 
-1. Only two products priced above ₹500 are part of the BOGOF promotion: Atliq Double Bedsheet Set and Atliq Waterproof Immersion Rod, suggesting that most BOGOF offers are concentrated on lower-priced products.
+## Key Insights
 
-2. AtliQ’s store presence is highest in Bengaluru (10), followed by Chennai (8) and Hyderabad (7), while Vijayawada and Trivandrum have the lowest number of stores with only 2 each.
+• Top 10 stores contribute ~29% of total promotional revenue uplift, showing that campaign performance is concentrated in a small group of high-performing locations.
 
-3. Both campaigns delivered significant revenue growth. Diwali revenue increased by ~107.6% (+₹88.88M), while Sankranti saw an even higher percentage uplift of ~113.6% (+₹66.02M).
+• Bottom 10 stores generated only ~52K incremental units (~11.8% of total ~441K units), highlighting a significant performance gap across store locations.
 
-4. Home Appliances ranked 1st with the highest ISU% (588.45%), significantly outperforming Home Care (203.14%) and Combo1 (202.36%), while Grocery & Staples (18.05%) recorded the lowest incremental sales growth during the Diwali campaign.
+• Bengaluru generates the highest promotional revenue (~₹22M IR), followed by Chennai (~₹18M) and Hyderabad (~₹13M), indicating stronger campaign impact in larger metropolitan markets.
 
-5. Atliq Waterproof Immersion Rod generated the highest Incremental Revenue uplift (266.19%), ranking 1st among all products. It was followed by Atliq High Glo 15W LED Bulb (262.98%) and Atliq Double Bedsheet Set (258.27%), while Atliq Curtains (255.34%) and Atliq Farm Chakki Atta 1KG (160.01%) completed the top five products by IR%.
+• Cashback and BOGOF promotions generated the majority of promotional revenue uplift (~₹160M combined), significantly outperforming discount-based promotions such as 25% OFF and 50% OFF.
+
+• Combo products generated ~₹91M incremental revenue, more than 3.5× higher than the next best category, while Personal Care promotions resulted in a ~₹0.85M revenue decline.
+
+## Recommendations
+
+• Replicate merchandising, inventory planning, and promotion placement strategies used by top-performing stores to improve performance in lower-performing locations.
+
+• Implement localized promotions, targeted marketing, and better in-store visibility in bottom-performing stores to increase campaign participation.
+
+• Allocate more promotional budget and inventory to high-performing metro cities such as Bengaluru, Chennai, and Hyderabad while testing city-specific strategies in smaller markets.
+
+• Increase the use of high-performing promotion types such as BOGOF and Cashback, while reassessing the effectiveness of flat percentage discount offers.
+
+• Focus promotional campaigns on high-performing product bundles and combo products, while reevaluating promotion strategies for Personal Care products, where current campaigns are generating negative returns.
+
 
 
 
