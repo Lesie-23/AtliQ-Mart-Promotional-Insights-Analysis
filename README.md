@@ -21,7 +21,7 @@ The sales leadership team wants to understand:
 
 . Power BI – Interactive dashboard and visualization
 
-. Canva -  Presentation
+. Powerpoint -  Presentation
 
 ## Dataset
 The analysis uses the following datasets:
