@@ -5,23 +5,23 @@ Analysis of Diwali 2023 and Sankranti 2024 promotional campaigns to evaluate pro
 AtliQ Mart is a retail chain operating more than 50 supermarkets across southern India. During the festive seasons of Diwali 2023 and Sankranti 2024, the company ran several promotional campaigns on its products.
 The sales leadership team wants to understand:
 
-. Which promotions generated the highest Incremental Revenue (IR)
+- Which promotions generated the highest Incremental Revenue (IR)
 
-. Which promotions drove Incremental Sold Units (ISU)
+- Which promotions drove Incremental Sold Units (ISU)
 
-. Which stores and cities benefited the most
+- Which stores and cities benefited the most
 
-. Which product categories responded best to promotions
+- Which product categories responded best to promotions
 
-. The goal of this project is to analyze promotional performance and deliver data-driven insights that help optimize future promotional strategies.
+- The goal of this project is to analyze promotional performance and deliver data-driven insights that help optimize future promotional strategies.
 
 ## Tools & Technologies
 
-. SQL (MySQL) – Data exploration and business query analysis
+- SQL (MySQL) – Data exploration and business query analysis
 
-. Power BI – Interactive dashboard and visualization
+- Power BI – Interactive dashboard and visualization
 
-. Powerpoint -  Presentation
+- PowerPoint -  Presentation
 
 ## Dataset
 The analysis uses the following datasets:
@@ -32,18 +32,16 @@ The analysis uses the following datasets:
 4. Fact_Events
 
 ## Key Metrics
-Metric	Description
-. IR (Incremental Revenue)	Revenue generated due to promotions
-
-. IR%	Percentage revenue growth compared to baseline
-
-. ISU (Incremental Sold Units)	Increase in units sold during promotion
-
-. ISU%	Percentage increase in units sold
+| Metric | Description |
+|------|------|
+| IR | Incremental Revenue generated due to promotions |
+| IR% | Percentage revenue growth compared to baseline |
+| ISU | Incremental increase in units sold |
+| ISU% | Percentage increase in units sold due to promotions |
 
 ## Dashboard Overview
 
-Data Model
+### Data Model
 <img width="1154" height="744" alt="data model" src="https://github.com/user-attachments/assets/d5bd7c07-96d3-4cd9-ac73-79486d754334" />
 
 Home Page
@@ -113,7 +111,7 @@ The business requests addressed include:
 
 • BOGOF promotions required estimated quantity adjustments since free units were not explicitly recorded in the dataset.
 
-
+This analysis identifies the most effective promotion types, high-performing product categories, and key revenue-driving stores during festive campaigns. The insights can help AtliQ Mart optimize promotional strategies, improve campaign ROI, and allocate marketing investments toward the most responsive products, stores, and cities.
 
 
 
