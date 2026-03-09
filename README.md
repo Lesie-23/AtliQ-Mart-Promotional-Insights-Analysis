@@ -44,19 +44,21 @@ Data Model
 <img width="1154" height="744" alt="data model" src="https://github.com/user-attachments/assets/d5bd7c07-96d3-4cd9-ac73-79486d754334" />
 
 Home Page
-<img width="1379" height="774" alt="Home page" src="https://github.com/user-attachments/assets/27fded51-8e40-466c-ad2b-7ba26ede41d7" />
+<img width="1311" height="734" alt="Home page" src="https://github.com/user-attachments/assets/9daafd8f-e920-4d14-8c35-cca50459ee73" />
+
 
 Store Performance Analysis
 Analyzes how stores performed during promotional campaigns.
-<img width="1153" height="796" alt="Store Performance page" src="https://github.com/user-attachments/assets/5cce63b7-65ca-4266-8b74-fe9c14e0d5fd" />
+<img width="1148" height="793" alt="Store Performance page" src="https://github.com/user-attachments/assets/af42fec6-b695-4b1d-a6da-bf621cabd433" />
 
 Promotional Analysis
 Evaluates the effectiveness of different promotion types.
-<img width="1183" height="795" alt="Promotional Analysis" src="https://github.com/user-attachments/assets/69810517-5619-45b4-9487-7ea439dceb84" />
+<img width="1190" height="793" alt="Promotional Analysis" src="https://github.com/user-attachments/assets/14f76955-ea9b-4110-87eb-4090fde5a619" />
+
 
 Product & Category Analysis
 Examines how product categories and individual products respond to promotions.
-<img width="1235" height="795" alt="Products   Categories page" src="https://github.com/user-attachments/assets/c95fa066-9a2b-42de-8039-ab0a51aab49f" />
+<img width="1244" height="798" alt="Products   Categories page" src="https://github.com/user-attachments/assets/8ac79ff6-2a35-4180-b50c-a8e0d5042b15" />
 
 
 ## SQL Business Requests
