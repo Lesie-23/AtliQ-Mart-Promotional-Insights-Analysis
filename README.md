@@ -83,27 +83,27 @@ The business requests addressed include:
 
 ## Key Insights
 
-• Top 10 stores contribute ~29% of total promotional revenue uplift, showing that campaign performance is concentrated in a small group of high-performing locations.
+• The top 10 stores generated ~29% of total promotional revenue uplift, showing that campaign performance is concentrated in a few high-performing locations.
 
-• Bottom 10 stores generated only ~52K incremental units (~11.8% of total ~441K units), highlighting a significant performance gap across store locations.
+• The bottom 10 stores contributed only ~52K incremental units (~11.8% of total ~441K units), highlighting a clear performance gap across stores.
 
-• Bengaluru generates the highest promotional revenue (~₹22M IR), followed by Chennai (~₹18M) and Hyderabad (~₹13M), indicating stronger campaign impact in larger metropolitan markets.
+• Bengaluru (~₹22M IR) generated the highest promotional revenue, followed by Chennai (~₹18M) and Hyderabad (~₹13M).
 
-• Cashback and BOGOF promotions generated the majority of promotional revenue uplift (~₹160M combined), significantly outperforming discount-based promotions such as 25% OFF and 50% OFF.
+• Cashback and BOGOF promotions drove ~₹160M in incremental revenue, significantly outperforming flat discount offers like 25% OFF and 50% OFF.
 
-• Combo products generated ~₹91M incremental revenue, more than 3.5× higher than the next best category, while Personal Care promotions resulted in a ~₹0.85M revenue decline.
+• Combo products generated ~₹91M incremental revenue, more than 3.5× higher than the next best category, while Personal Care promotions resulted in a ~₹0.85M decline.
 
 ## Recommendations
 
-• Replicate merchandising, inventory planning, and promotion placement strategies used by top-performing stores to improve performance in lower-performing locations.
+• Apply strategies used by top-performing stores to improve results in lower-performing locations.
 
-• Implement localized promotions, targeted marketing, and better in-store visibility in bottom-performing stores to increase campaign participation.
+• Introduce localized promotions and better in-store visibility in underperforming stores.
 
-• Allocate more promotional budget and inventory to high-performing metro cities such as Bengaluru, Chennai, and Hyderabad while testing city-specific strategies in smaller markets.
+• Allocate more promotional investment to high-performing cities such as Bengaluru, Chennai, and Hyderabad.
 
-• Increase the use of high-performing promotion types such as BOGOF and Cashback, while reassessing the effectiveness of flat percentage discount offers.
+• Increase the use of high-performing promotion types like BOGOF and Cashback.
 
-• Focus promotional campaigns on high-performing product bundles and combo products, while reevaluating promotion strategies for Personal Care products, where current campaigns are generating negative returns.
+• Expand combo bundle promotions while reassessing strategies for Personal Care products.
 
 
 
