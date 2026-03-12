@@ -54,7 +54,7 @@ Analyzes how stores performed during promotional campaigns.
 
 ### Promotional Analysis
 Evaluates the effectiveness of different promotion types.
-<img width="1190" height="793" alt="Promotional Analysis" src="https://github.com/user-attachments/assets/14f76955-ea9b-4110-87eb-4090fde5a619" />
+<img width="1310" height="878" alt="Promotional Analysis" src="https://github.com/user-attachments/assets/9a52aa23-ee62-4c00-9721-bd5d8c7f3431" />
 
 
 ### Product & Category Analysis
