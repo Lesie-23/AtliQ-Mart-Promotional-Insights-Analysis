@@ -116,7 +116,8 @@ This analysis identifies the most effective promotion types, high-performing pro
 
 
 Live Dashboard https://app.powerbi.com/view?r=eyJrIjoiMmVmNjI2NWEtYjUyZi00NjcxLWIyZGYtMTFkOTUwY2I0N2FlIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
-
+Project Walkthrough : https://www.youtube.com/embed/b-hsLsZsfHI?si=n82fEppnIsKbcsSW
+Linkedin : https://www.linkedin.com/feed/update/urn:li:activity:7437714792573865984/?originTrackingId=05I9dDUANDEpTc6nX8BcbQ%3D%3D
 
 
 
